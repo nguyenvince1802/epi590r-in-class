@@ -38,7 +38,7 @@ tbl_summary(
 
 ```{r}
 #| label: tbl-one
-#| fig-cap: "This is a Table 1"
+#| tbl-cap: "Descriptive Statistics"
 table1 <- tbl_summary(
   nlsy,
   by = sex_cat,
@@ -137,6 +137,8 @@ tbl_regression(
     age_bir ~ "Age at first birth"
   ))
 ```
+
+Refer to @tbl-one for descriptive stats.
 
 ```{r}
 tbl_regression(

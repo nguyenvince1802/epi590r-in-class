@@ -35,5 +35,7 @@ $Vince + debt = sad$
 
 
 ```{r}
+#renv::init()
+#install.packages("fortunes")
 ```
 
