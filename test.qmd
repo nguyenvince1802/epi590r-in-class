@@ -1,0 +1,39 @@
+---
+title: "test"
+format:
+  html:
+    theme: default
+---
+
+# My header
+
+text
+
+*italic*
+
+**bold**
+
+***italic bold***
+
+~~strikethrough~~
+	
+- Eggs
+- Milk
+
+# Blockquote
+> - Hi Louis
+>	- Hi Loui
+>	- Hi Lou
+>		+ Hi Lo
+>			- Hi L
+
+# Equations
+$Vince + money = happy$
+
+$Vince + debt = sad$
+
+
+
+```{r}
+```
+
